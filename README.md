@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maqsat
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=maqswebdev)
 
 ## I'm a FrontEnd Developer
 
