@@ -16,6 +16,7 @@
 [<img align="left" alt="MaqsatQuanysh | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
+<br />
 
 ### Languages and Tools (FrontEnd):
 
@@ -34,6 +35,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" />
 <img align="left" alt="October CMS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" />
 <img align="left" alt="October CMS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/MODX_Logo.png" />
+<br />
+<br />
 <br />
 
 <details>
