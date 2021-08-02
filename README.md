@@ -27,7 +27,7 @@
 <img align="left" alt="Gulp" width="26px" src="https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png" />
 <img align="left" alt="Webpack" width="26px" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="VueJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
 <img align="left" alt="VueJS" width="26px" src="https://devopedia.org/images/article/167/6446.1555250902.png" />
 <img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -41,6 +41,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" />
 <img align="left" alt="October CMS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" />
 <img align="left" alt="October CMS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/MODX_Logo.png" />
+<img align="left" alt="1C Bitrix" width="36px" src="https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg" />
 <br />
 <br />
 <br />
